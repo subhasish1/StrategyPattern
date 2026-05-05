@@ -1,0 +1,4 @@
+1. At some point there is a limitation while implementaing multiple inheritance.
+2. in this case, preminum vehicle and sports vehicle using special driving capabilities,
+3. All though the capabilities is same, however we hhave to write duplicate code in both the class.
+4. In this sort of sitution, Strategy pattern works.

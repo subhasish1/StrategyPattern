@@ -1,0 +1,3 @@
+class PassengerVehicle < Vehicle
+    
+end
